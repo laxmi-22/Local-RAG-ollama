@@ -37,6 +37,7 @@ LLM (Ollama)
    ↓
 Context-grounded Answer
 
+
 ## 🔍 Key Learning (Core Insight)
 
 Initially, I directly moved from PDF loading to chunking.
